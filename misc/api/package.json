@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "## ドキュメント作成方法",
+  "main": "index.js",
+  "scripts": {
+     "gen": "aglio -i ./source/input.md -o ./index.html"
+  },
+  "author": "OkamotoTakuya",
+  "license": "UNLICENSED"
+}

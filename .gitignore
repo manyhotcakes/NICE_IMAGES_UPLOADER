@@ -1,0 +1,8 @@
+laradock/
+node_modules
+homework/public/css/*
+homework/public/js/*
+!.gitkeep
+.nuxt
+nuxt_dist
+homework/storage
