@@ -2,7 +2,13 @@ laradock/
 node_modules
 homework/public/css/*
 homework/public/js/*
-!.gitkeep
 .nuxt
 nuxt_dist
-homework/storage
+homework/storage/*
+!homework/storage/app
+homework/storage/app/*
+!homework/storage/app/public
+homework/storage/app/public/*
+!homework/storage/app/public/.gitkeep
+!homework/storage/app/public/[0-9].jpeg
+!.gitkeep
